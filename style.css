@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(5, 236, 252);
+}
+#dice {
+    font-size: 320px;
+}
+#dice:hover {
+    cursor: pointer;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f80b0b;
+    padding: 10px;
+    text-align: center;
+    
+} 
